@@ -7,7 +7,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background: #08111f;
+    background: #000408;
     color: #edf4ff;
     font-family: Arial, sans-serif;
     min-height: 100vh;
@@ -40,7 +40,7 @@ button:hover {
     gap: 12px;
 }
 .brand-logo {
-    background: #287ee8;
+    background: #0f83f6;
     border-radius: 10px;
     padding: 12px 16px;
     font-size: 23px;
@@ -78,4 +78,9 @@ nav a:hover {
     height: 9px;
     background: #39d6a0;
     border-radius: 50%;
+}
+#clock {
+    color: white;
+    margin-left: 10px;
+    font-family: monospace;
 }
